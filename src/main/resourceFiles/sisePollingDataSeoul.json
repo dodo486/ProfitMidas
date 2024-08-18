@@ -1,0 +1,2202 @@
+{
+  "dataArray":[
+  {
+    "_id": "5c357c89da8e197aa3637daf",
+    "fileName": "KOSPI200지수옵션/실시간/UDP(8M)",
+    "trCode": "I2034",
+    "market": "옵션PUT회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.162(PUT)",
+    "realPort": 15516,
+    "sendSystem": "옵션 PUT_KRX"
+  },
+  {
+    "_id": "5c356796da8e197aa35cbcfd",
+    "fileName": "상품선물/실시간/UDP(8M)",
+    "trCode": "I2016",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.173",
+    "realPort": 15412,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c356796da8e197aa35cbd02",
+    "fileName": "상품선물/실시간/UDP(8M)",
+    "trCode": "I2016",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.194",
+    "realPort": 15417,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c356796da8e197aa35cbd05",
+    "fileName": "상품선물/실시간/UDP(8M)",
+    "trCode": "I2016",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.194",
+    "realPort": 15414,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c356796da8e197aa35cbd07",
+    "fileName": "상품선물/실시간/UDP(8M)",
+    "trCode": "I2016",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.194",
+    "realPort": 15418,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c356796da8e197aa35cbd09",
+    "fileName": "상품선물/실시간/UDP(8M)",
+    "trCode": "I2016",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.194",
+    "realPort": 15413,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c356796da8e197aa35cbd0a",
+    "fileName": "상품선물/실시간/UDP(8M)",
+    "trCode": "I2016",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.188",
+    "realPort": 15426,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c356796da8e197aa35cbd0c",
+    "fileName": "상품선물/실시간/UDP(8M)",
+    "trCode": "I2016",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.178",
+    "realPort": 15420,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c356796da8e197aa35cbd0d",
+    "fileName": "상품선물/실시간/UDP(8M)",
+    "trCode": "I0016",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.178",
+    "realPort": 15421,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c356796da8e197aa35cbd0e",
+    "fileName": "상품선물/실시간/UDP(8M)",
+    "trCode": "I2016",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.178",
+    "realPort": 15421,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c356796da8e197aa35cbd0f",
+    "fileName": "상품선물/실시간/UDP(8M)",
+    "trCode": "I1016",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.178",
+    "realPort": 15422,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c356796da8e197aa35cbd10",
+    "fileName": "상품선물/실시간/UDP(8M)",
+    "trCode": "I2016",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.178",
+    "realPort": 15422,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c356796da8e197aa35cbd12",
+    "fileName": "상품선물/실시간/UDP(8M)",
+    "trCode": "I2016",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.194(금리)",
+    "realPort": 15419,
+    "sendSystem": "선물(종목정보/조정내역)_KRX"
+  },
+  {
+    "_id": "5c356796da8e197aa35cbd14",
+    "fileName": "상품선물/실시간/UDP(8M)",
+    "trCode": "I2016",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.194(금리)",
+    "realPort": 15423,
+    "sendSystem": "선물(종목정보/조정내역)_KRX"
+  },
+  {
+    "_id": "5c356796da8e197aa35cbd16",
+    "fileName": "상품선물/실시간/UDP(8M)",
+    "trCode": "I2016",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.194",
+    "realPort": 15411,
+    "sendSystem": "선물(종목정보/조정내역)_KRX"
+  },
+  {
+    "_id": "5c356796da8e197aa35cbd18",
+    "fileName": "상품선물/실시간/UDP(8M)",
+    "trCode": "I2016",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.55",
+    "realPort": 15425,
+    "sendSystem": "선물(돈육현물)_KOSCOM"
+  },
+  {
+    "_id": "5c357c89da8e197aa3637c0a",
+    "fileName": "KOSPI200지수선물CME연계/실시간/UDP(T1)",
+    "trCode": "I2044",
+    "market": "CME/EUREX회선 T1",
+    "highSpeedMulticastGroupIP": "233.37.54.220",
+    "realPort": 15432,
+    "sendSystem": "CME_KRX"
+  },
+  {
+    "_id": "5c357c89da8e197aa3637c0c",
+    "fileName": "KOSPI200지수선물CME연계/실시간/UDP(T1)",
+    "trCode": "I2044",
+    "market": "CME/EUREX회선 T1",
+    "highSpeedMulticastGroupIP": "233.37.54.220",
+    "realPort": 15435,
+    "sendSystem": "CME_KRX"
+  },
+  {
+    "_id": "5c357c89da8e197aa3637c0e",
+    "fileName": "KOSPI200지수선물CME연계/실시간/UDP(T1)",
+    "trCode": "I2044",
+    "market": "CME/EUREX회선 T1",
+    "highSpeedMulticastGroupIP": "233.37.54.220",
+    "realPort": 15433,
+    "sendSystem": "CME_KRX"
+  },
+  {
+    "_id": "5c357c89da8e197aa3637c10",
+    "fileName": "KOSPI200지수선물CME연계/실시간/UDP(T1)",
+    "trCode": "I2044",
+    "market": "CME/EUREX회선 T1",
+    "highSpeedMulticastGroupIP": "233.37.54.220",
+    "realPort": 15431,
+    "sendSystem": "CME_KRX"
+  },
+  {
+    "_id": "5c357c89da8e197aa3637c12",
+    "fileName": "KOSPI200지수선물CME연계/실시간/UDP(T1)",
+    "trCode": "I2044",
+    "market": "CME/EUREX회선 T1",
+    "highSpeedMulticastGroupIP": "233.37.54.220",
+    "realPort": 15434,
+    "sendSystem": "CME_KRX"
+  },
+  {
+    "_id": "5c357c89da8e197aa3637c5a",
+    "fileName": "KOSPI200지수선물/실시간/UDP(8M)",
+    "trCode": "I2014",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.171",
+    "realPort": 15572,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c89da8e197aa3637c61",
+    "fileName": "KOSPI200지수선물/실시간/UDP(8M)",
+    "trCode": "I2014",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.191",
+    "realPort": 15574,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c89da8e197aa3637c63",
+    "fileName": "KOSPI200지수선물/실시간/UDP(8M)",
+    "trCode": "I2014",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.191",
+    "realPort": 15577,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c89da8e197aa3637c65",
+    "fileName": "KOSPI200지수선물/실시간/UDP(8M)",
+    "trCode": "I2014",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.191",
+    "realPort": 15578,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c89da8e197aa3637c67",
+    "fileName": "KOSPI200지수선물/실시간/UDP(8M)",
+    "trCode": "I2014",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.191",
+    "realPort": 15573,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c89da8e197aa3637c69",
+    "fileName": "KOSPI200지수선물/실시간/UDP(8M)",
+    "trCode": "I2014",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.191",
+    "realPort": 15571,
+    "sendSystem": "선물(종목정보/조정내역)_KRX"
+  },
+  {
+    "_id": "5c357c89da8e197aa3637cc8",
+    "fileName": "KOSPI200지수옵션EUREX연계/실시간/UDP(T1)",
+    "trCode": "I2054",
+    "market": "CME/EUREX회선 T1",
+    "highSpeedMulticastGroupIP": "233.37.54.221",
+    "realPort": 15612,
+    "sendSystem": "EUREX_KRX"
+  },
+  {
+    "_id": "5c357c89da8e197aa3637cca",
+    "fileName": "KOSPI200지수옵션EUREX연계/실시간/UDP(T1)",
+    "trCode": "I2054",
+    "market": "CME/EUREX회선 T1",
+    "highSpeedMulticastGroupIP": "233.37.54.221",
+    "realPort": 15611,
+    "sendSystem": "EUREX_KRX"
+  },
+  {
+    "_id": "5c357c89da8e197aa3637ccc",
+    "fileName": "KOSPI200지수옵션EUREX연계/실시간/UDP(T1)",
+    "trCode": "I2054",
+    "market": "CME/EUREX회선 T1",
+    "highSpeedMulticastGroupIP": "233.37.54.221",
+    "realPort": 15614,
+    "sendSystem": "EUREX_KRX"
+  },
+  {
+    "_id": "5c357c89da8e197aa3637d8d",
+    "fileName": "KOSPI200지수옵션/실시간/UDP(8M)",
+    "trCode": "I2034",
+    "market": "옵션CALL회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.195",
+    "realPort": 15518,
+    "sendSystem": "옵션CALL(체결/호가)_KRX"
+  },
+  {
+    "_id": "5c357c89da8e197aa3637d8f",
+    "fileName": "KOSPI200지수옵션/실시간/UDP(8M)",
+    "trCode": "I2034",
+    "market": "옵션CALL회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.195",
+    "realPort": 15519,
+    "sendSystem": "옵션CALL(체결/호가)_KRX"
+  },
+  {
+    "_id": "5c357c89da8e197aa3637d97",
+    "fileName": "KOSPI200지수옵션/실시간/UDP(8M)",
+    "trCode": "I2034",
+    "market": "옵션CALL회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.161(CALL)",
+    "realPort": 15515,
+    "sendSystem": "옵션CALL(체결/호가)_KRX"
+  },
+  {
+    "_id": "5c357c89da8e197aa3637d9d",
+    "fileName": "KOSPI200지수옵션/실시간/UDP(8M)",
+    "trCode": "I2034",
+    "market": "옵션CALL회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.195",
+    "realPort": 15511,
+    "sendSystem": "옵션(종목정보)_KRX"
+  },
+  {
+    "_id": "5c357c89da8e197aa3637d9e",
+    "fileName": "KOSPI200지수옵션/실시간/UDP(8M)",
+    "trCode": "I2034",
+    "market": "옵션CALL회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.195",
+    "realPort": 15510,
+    "sendSystem": "옵션(종목정보)_KRX"
+  },
+  {
+    "_id": "5c357c89da8e197aa3637da3",
+    "fileName": "KOSPI200지수옵션/실시간/UDP(8M)",
+    "trCode": "I2034",
+    "market": "옵션PUT회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.195",
+    "realPort": 15514,
+    "sendSystem": "옵션 PUT_KRX"
+  },
+  {
+    "_id": "5c357c89da8e197aa3637da4",
+    "fileName": "KOSPI200지수옵션/실시간/UDP(8M)",
+    "trCode": "I2034",
+    "market": "옵션PUT회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.195",
+    "realPort": 15520,
+    "sendSystem": "옵션 PUT_KRX"
+  },
+  {
+    "_id": "5c357c89da8e197aa3637da7",
+    "fileName": "KOSPI200지수옵션/실시간/UDP(8M)",
+    "trCode": "I2034",
+    "market": "옵션PUT회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.195",
+    "realPort": 15513,
+    "sendSystem": "옵션 PUT_KRX"
+  },
+  {
+    "_id": "5c357c89da8e197aa3637e20",
+    "fileName": "KRX300선물/실시간/UDP(8M)",
+    "trCode": "I2164",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.184",
+    "realPort": 15372,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c89da8e197aa3637e27",
+    "fileName": "KRX300선물/실시간/UDP(8M)",
+    "trCode": "I2164",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.184",
+    "realPort": 15373,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c89da8e197aa3637e2a",
+    "fileName": "KRX300선물/실시간/UDP(8M)",
+    "trCode": "I2164",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.184",
+    "realPort": 15374,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c89da8e197aa3637e2c",
+    "fileName": "KRX300선물/실시간/UDP(8M)",
+    "trCode": "I2164",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.184",
+    "realPort": 15371,
+    "sendSystem": "선물(종목정보)"
+  },
+  {
+    "_id": "5c357c8bda8e197aa3638aab",
+    "fileName": "KRX지수/실시간/UDP(8M)",
+    "trCode": "AI011",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.251",
+    "realPort": 19547,
+    "sendSystem": "선물(종목정보/조정내역)_KRX"
+  },
+  {
+    "_id": "5c357c8bda8e197aa3638aba",
+    "fileName": "KRX지수/실시간/UDP(8M)",
+    "trCode": "BI011",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.251",
+    "realPort": 19547,
+    "sendSystem": "선물(종목정보/조정내역)_KRX"
+  },
+  {
+    "_id": "5c357c8bda8e197aa3638ac0",
+    "fileName": "KRX지수/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.251",
+    "realPort": 19547,
+    "sendSystem": "선물(종목정보/조정내역)_KRX"
+  },
+  {
+    "_id": "5c357c8bda8e197aa3638ac1",
+    "fileName": "KRX지수/실시간/UDP(8M)",
+    "trCode": "I2016",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.251",
+    "realPort": 19547,
+    "sendSystem": "선물(종목정보/조정내역)_KRX"
+  },
+  {
+    "_id": "5c357c8bda8e197aa3638b04",
+    "fileName": "KRX지수/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.199",
+    "realPort": 19544,
+    "sendSystem": "선물(종목정보/조정내역)_KRX"
+  },
+  {
+    "_id": "5c357c8bda8e197aa3638b0e",
+    "fileName": "KRX지수/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.199",
+    "realPort": 19546,
+    "sendSystem": "선물(종목정보/조정내역)_KRX"
+  },
+  {
+    "_id": "5c357c8bda8e197aa3638b0f",
+    "fileName": "KRX지수/실시간/UDP(8M)",
+    "trCode": "I2014",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.199",
+    "realPort": 19546,
+    "sendSystem": "선물(종목정보/조정내역)_KRX"
+  },
+  {
+    "_id": "5c357c8bda8e197aa3638b10",
+    "fileName": "KRX지수/실시간/UDP(8M)",
+    "trCode": "I2016",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.199",
+    "realPort": 19546,
+    "sendSystem": "선물(종목정보/조정내역)_KRX"
+  },
+  {
+    "_id": "5c357c8bda8e197aa3638b11",
+    "fileName": "KRX지수/실시간/UDP(8M)",
+    "trCode": "I2034",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.199",
+    "realPort": 19546,
+    "sendSystem": "선물(종목정보/조정내역)_KRX"
+  },
+  {
+    "_id": "5c357c8bda8e197aa3638b2f",
+    "fileName": "KRX지수/실시간/UDP(8M)",
+    "trCode": "AI011",
+    "market": "유가증권통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.125",
+    "realPort": 19547,
+    "sendSystem": "유가(지수/종목배치)_KRX"
+  },
+  {
+    "_id": "5c357c8bda8e197aa3638b3e",
+    "fileName": "KRX지수/실시간/UDP(8M)",
+    "trCode": "BI011",
+    "market": "유가증권통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.125",
+    "realPort": 19547,
+    "sendSystem": "유가(지수/종목배치)_KRX"
+  },
+  {
+    "_id": "5c357c8bda8e197aa3638b44",
+    "fileName": "KRX지수/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "유가증권통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.125",
+    "realPort": 19547,
+    "sendSystem": "유가(지수/종목배치)_KRX"
+  },
+  {
+    "_id": "5c357c8bda8e197aa3638b45",
+    "fileName": "KRX지수/실시간/UDP(8M)",
+    "trCode": "I2014",
+    "market": "유가증권통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.125",
+    "realPort": 19547,
+    "sendSystem": "유가(지수/종목배치)_KRX"
+  },
+  {
+    "_id": "5c357c8bda8e197aa3638b46",
+    "fileName": "KRX지수/실시간/UDP(8M)",
+    "trCode": "I2016",
+    "market": "유가증권통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.125",
+    "realPort": 19547,
+    "sendSystem": "유가(지수/종목배치)_KRX"
+  },
+  {
+    "_id": "5c357c8bda8e197aa3638b8a",
+    "fileName": "KRX지수/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "유가증권통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.124",
+    "realPort": 19544,
+    "sendSystem": "유가(지수/종목배치)_KRX"
+  },
+  {
+    "_id": "5c357c8bda8e197aa3638b94",
+    "fileName": "KRX지수/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "유가증권통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.124",
+    "realPort": 19546,
+    "sendSystem": "유가(지수/종목배치)_KRX"
+  },
+  {
+    "_id": "5c357c8bda8e197aa3638b95",
+    "fileName": "KRX지수/실시간/UDP(8M)",
+    "trCode": "I2014",
+    "market": "유가증권통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.124",
+    "realPort": 19546,
+    "sendSystem": "유가(지수/종목배치)_KRX"
+  },
+  {
+    "_id": "5c357c8bda8e197aa3638b96",
+    "fileName": "KRX지수/실시간/UDP(8M)",
+    "trCode": "I2016",
+    "market": "유가증권통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.124",
+    "realPort": 19546,
+    "sendSystem": "유가(지수/종목배치)_KRX"
+  },
+  {
+    "_id": "5c357c8bda8e197aa3638b97",
+    "fileName": "KRX지수/실시간/UDP(8M)",
+    "trCode": "I2034",
+    "market": "유가증권통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.124",
+    "realPort": 19546,
+    "sendSystem": "유가(지수/종목배치)_KRX"
+  },
+  {
+    "_id": "5c357c8bda8e197aa3638ccd",
+    "fileName": "개별주식선물/실시간/UDP(8M)",
+    "trCode": "I2015",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.193",
+    "realPort": 15594,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8bda8e197aa3638ccf",
+    "fileName": "개별주식선물/실시간/UDP(8M)",
+    "trCode": "I2015",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.193",
+    "realPort": 15597,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8bda8e197aa3638cd1",
+    "fileName": "개별주식선물/실시간/UDP(8M)",
+    "trCode": "I2015",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.193",
+    "realPort": 15598,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8bda8e197aa3638cd3",
+    "fileName": "개별주식선물/실시간/UDP(8M)",
+    "trCode": "I2015",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.193",
+    "realPort": 15593,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8bda8e197aa3638cda",
+    "fileName": "개별주식선물/실시간/UDP(8M)",
+    "trCode": "I2015",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.174",
+    "realPort": 15592,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8bda8e197aa3638ce1",
+    "fileName": "개별주식선물/실시간/UDP(8M)",
+    "trCode": "I2015",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.193",
+    "realPort": 15591,
+    "sendSystem": "선물(종목정보/조정내역)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa3638e35",
+    "fileName": "개별주식옵션대상주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.179",
+    "realPort": 15532,
+    "sendSystem": "선물(BIG33_KOSDAQ)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa3638e38",
+    "fileName": "개별주식옵션대상주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.179",
+    "realPort": 15532,
+    "sendSystem": "선물(BIG33_KOSPI)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa3638e3c",
+    "fileName": "개별주식옵션대상주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.179",
+    "realPort": 15531,
+    "sendSystem": "선물(종목정보/조정내역)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa3638e3d",
+    "fileName": "개별주식옵션대상주식/실시간/UDP(8M)",
+    "trCode": "I5011",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.179",
+    "realPort": 15531,
+    "sendSystem": "선물(종목정보/조정내역)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa3638e3e",
+    "fileName": "개별주식옵션대상주식/실시간/UDP(8M)",
+    "trCode": "I6011",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.179",
+    "realPort": 15531,
+    "sendSystem": "선물(종목정보/조정내역)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa3638f0a",
+    "fileName": "개별주식옵션/실시간/UDP(8M)",
+    "trCode": "I2025",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.197",
+    "realPort": 15525,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa3638f0c",
+    "fileName": "개별주식옵션/실시간/UDP(8M)",
+    "trCode": "I2025",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.197",
+    "realPort": 15527,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa3638f0e",
+    "fileName": "개별주식옵션/실시간/UDP(8M)",
+    "trCode": "I2025",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.197",
+    "realPort": 15528,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa3638f10",
+    "fileName": "개별주식옵션/실시간/UDP(8M)",
+    "trCode": "I2025",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.197",
+    "realPort": 15524,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa3638f17",
+    "fileName": "개별주식옵션/실시간/UDP(8M)",
+    "trCode": "I2025",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.175",
+    "realPort": 15522,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa3638f20",
+    "fileName": "개별주식옵션/실시간/UDP(8M)",
+    "trCode": "I2025",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.175",
+    "realPort": 15523,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa3638f26",
+    "fileName": "개별주식옵션/실시간/UDP(8M)",
+    "trCode": "I2025",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.197",
+    "realPort": 15521,
+    "sendSystem": "선물(종목정보/조정내역)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa3638f27",
+    "fileName": "개별주식옵션/실시간/UDP(8M)",
+    "trCode": "I2025",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.197",
+    "realPort": 15526,
+    "sendSystem": "선물(종목정보/조정내역)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa3638f62",
+    "fileName": "금현물/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.210",
+    "realPort": 19312,
+    "sendSystem": "코스닥(체결/호가/장운영/종가)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa3638f66",
+    "fileName": "금현물/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.210",
+    "realPort": 19313,
+    "sendSystem": "코스닥(체결/호가/장운영/종가)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa3638f69",
+    "fileName": "금현물/실시간/UDP(8M)",
+    "trCode": "I2019",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.211",
+    "realPort": 19318,
+    "sendSystem": "코스닥(지수/종목배치/거래원/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa3638f6d",
+    "fileName": "금현물/실시간/UDP(8M)",
+    "trCode": "I2019",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.211",
+    "realPort": 19311,
+    "sendSystem": "코스닥(지수/종목배치/거래원/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa3638f6e",
+    "fileName": "금현물/실시간/UDP(8M)",
+    "trCode": "I2019",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.212",
+    "realPort": 19314,
+    "sendSystem": "선물(체결/호가/미결제/정산가)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa3638f98",
+    "fileName": "미국달러선물CME연계/실시간/UDP(T1)",
+    "trCode": "I2126",
+    "market": "CME/EUREX회선 T1",
+    "highSpeedMulticastGroupIP": "233.37.54.222",
+    "realPort": 15442,
+    "sendSystem": "CME_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa3638f9a",
+    "fileName": "미국달러선물CME연계/실시간/UDP(T1)",
+    "trCode": "I2126",
+    "market": "CME/EUREX회선 T1",
+    "highSpeedMulticastGroupIP": "233.37.54.222",
+    "realPort": 15445,
+    "sendSystem": "CME_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa3638f9c",
+    "fileName": "미국달러선물CME연계/실시간/UDP(T1)",
+    "trCode": "I2126",
+    "market": "CME/EUREX회선 T1",
+    "highSpeedMulticastGroupIP": "233.37.54.222",
+    "realPort": 15443,
+    "sendSystem": "CME_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa3638f9e",
+    "fileName": "미국달러선물CME연계/실시간/UDP(T1)",
+    "trCode": "I2126",
+    "market": "CME/EUREX회선 T1",
+    "highSpeedMulticastGroupIP": "233.37.54.222",
+    "realPort": 15441,
+    "sendSystem": "CME_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa3638fa0",
+    "fileName": "미국달러선물CME연계/실시간/UDP(T1)",
+    "trCode": "I2126",
+    "market": "CME/EUREX회선 T1",
+    "highSpeedMulticastGroupIP": "233.37.54.222",
+    "realPort": 15444,
+    "sendSystem": "CME_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa3638fc7",
+    "fileName": "미니KOSPI200지수선물/실시간/UDP(8M)",
+    "trCode": "I2124",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.245",
+    "realPort": 15352,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa3638fce",
+    "fileName": "미니KOSPI200지수선물/실시간/UDP(8M)",
+    "trCode": "I2124",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.245",
+    "realPort": 15354,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa3638fd3",
+    "fileName": "미니KOSPI200지수선물/실시간/UDP(8M)",
+    "trCode": "I2124",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.245",
+    "realPort": 15353,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa3638fd5",
+    "fileName": "미니KOSPI200지수선물/실시간/UDP(8M)",
+    "trCode": "I2124",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.245",
+    "realPort": 15351,
+    "sendSystem": "선물(종목정보/조정내역)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa363905c",
+    "fileName": "미니KOSPI200지수옵션/실시간/UDP(8M)",
+    "trCode": "I2134",
+    "market": "옵션CALL회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.246",
+    "realPort": 15365,
+    "sendSystem": "옵션CALL(체결/호가)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa3639063",
+    "fileName": "미니KOSPI200지수옵션/실시간/UDP(8M)",
+    "trCode": "I2134",
+    "market": "옵션CALL회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.246",
+    "realPort": 15364,
+    "sendSystem": "옵션CALL(체결/호가)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa3639067",
+    "fileName": "미니KOSPI200지수옵션/실시간/UDP(8M)",
+    "trCode": "I2134",
+    "market": "옵션CALL회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.246",
+    "realPort": 15363,
+    "sendSystem": "옵션CALL(체결/호가)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa3639069",
+    "fileName": "미니KOSPI200지수옵션/실시간/UDP(8M)",
+    "trCode": "I2134",
+    "market": "옵션CALL회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.246",
+    "realPort": 15361,
+    "sendSystem": "옵션(종목정보)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa363906a",
+    "fileName": "미니KOSPI200지수옵션/실시간/UDP(8M)",
+    "trCode": "I2134",
+    "market": "옵션CALL회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.246",
+    "realPort": 15370,
+    "sendSystem": "옵션(종목정보)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa3639074",
+    "fileName": "미니KOSPI200지수옵션/실시간/UDP(8M)",
+    "trCode": "I2134",
+    "market": "옵션PUT회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.247",
+    "realPort": 15367,
+    "sendSystem": "옵션 PUT_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa36390f8",
+    "fileName": "배출권현물/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.230",
+    "realPort": 19322,
+    "sendSystem": "코스닥(체결/호가/장운영/종가)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa36390fc",
+    "fileName": "배출권현물/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.230",
+    "realPort": 19323,
+    "sendSystem": "코스닥(체결/호가/장운영/종가)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa36390ff",
+    "fileName": "배출권현물/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.231",
+    "realPort": 19321,
+    "sendSystem": "코스닥(지수/종목배치/거래원/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa363912c",
+    "fileName": "변동성지수선물실시간/UDP(8M)",
+    "trCode": "I2094",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.242",
+    "realPort": 15312,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa3639132",
+    "fileName": "변동성지수선물실시간/UDP(8M)",
+    "trCode": "I2094",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.242",
+    "realPort": 15314,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa3639134",
+    "fileName": "변동성지수선물실시간/UDP(8M)",
+    "trCode": "I2094",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.242",
+    "realPort": 15317,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa3639136",
+    "fileName": "변동성지수선물실시간/UDP(8M)",
+    "trCode": "I2094",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.242",
+    "realPort": 15318,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa3639138",
+    "fileName": "변동성지수선물실시간/UDP(8M)",
+    "trCode": "I2094",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.242",
+    "realPort": 15313,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa363913a",
+    "fileName": "변동성지수선물실시간/UDP(8M)",
+    "trCode": "I2094",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.241",
+    "realPort": 15311,
+    "sendSystem": "선물(종목정보/조정내역)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa3639175",
+    "fileName": "상품옵션/실시간/UDP(8M)",
+    "trCode": "I2026",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.176",
+    "realPort": 15542,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa363917a",
+    "fileName": "상품옵션/실시간/UDP(8M)",
+    "trCode": "I2026",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.196",
+    "realPort": 15546,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa363917c",
+    "fileName": "상품옵션/실시간/UDP(8M)",
+    "trCode": "I2026",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.196",
+    "realPort": 15548,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa363917e",
+    "fileName": "상품옵션/실시간/UDP(8M)",
+    "trCode": "I2026",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.196",
+    "realPort": 15549,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa3639180",
+    "fileName": "상품옵션/실시간/UDP(8M)",
+    "trCode": "I2026",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.196",
+    "realPort": 15544,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa3639182",
+    "fileName": "상품옵션/실시간/UDP(8M)",
+    "trCode": "I2026",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.196",
+    "realPort": 15541,
+    "sendSystem": "선물(종목정보/조정내역)_KRX"
+  },
+  {
+    "_id": "5c357c8cda8e197aa3639183",
+    "fileName": "상품옵션/실시간/UDP(8M)",
+    "trCode": "I2026",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.196",
+    "realPort": 15543,
+    "sendSystem": "선물(종목정보/조정내역)_KRX"
+  },
+  {
+    "_id": "5c357c8dda8e197aa36391bb",
+    "fileName": "섹터지수선물실시간/UDP(8M)",
+    "trCode": "I2104",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.244",
+    "realPort": 15332,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8dda8e197aa36391c1",
+    "fileName": "섹터지수선물실시간/UDP(8M)",
+    "trCode": "I2104",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.244",
+    "realPort": 15334,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8dda8e197aa36391c3",
+    "fileName": "섹터지수선물실시간/UDP(8M)",
+    "trCode": "I2104",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.244",
+    "realPort": 15337,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8dda8e197aa36391c5",
+    "fileName": "섹터지수선물실시간/UDP(8M)",
+    "trCode": "I2104",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.244",
+    "realPort": 15338,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8dda8e197aa36391c7",
+    "fileName": "섹터지수선물실시간/UDP(8M)",
+    "trCode": "I2104",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.244",
+    "realPort": 15333,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8dda8e197aa36391c9",
+    "fileName": "섹터지수선물실시간/UDP(8M)",
+    "trCode": "I2104",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.243",
+    "realPort": 15331,
+    "sendSystem": "선물(종목정보/조정내역)_KRX"
+  },
+  {
+    "_id": "5c357c8eda8e197aa3639f53",
+    "fileName": "유가증권주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "유가증권통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.115",
+    "realPort": 19524,
+    "sendSystem": "유가(체결/호가/공개정보)_KRX"
+  },
+  {
+    "_id": "5c357c8eda8e197aa3639f5e",
+    "fileName": "유가증권주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "유가증권통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.115",
+    "realPort": 19526,
+    "sendSystem": "유가(체결/호가/공개정보)_KRX"
+  },
+  {
+    "_id": "5c357c8eda8e197aa3639f60",
+    "fileName": "유가증권주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "유가증권통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.115",
+    "realPort": 19528,
+    "sendSystem": "유가(체결/호가/공개정보)_KRX"
+  },
+  {
+    "_id": "5c357c8eda8e197aa3639f69",
+    "fileName": "유가증권주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "유가증권통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.115",
+    "realPort": 19529,
+    "sendSystem": "유가(체결/호가/공개정보)_KRX"
+  },
+  {
+    "_id": "5c357c8eda8e197aa3639f7d",
+    "fileName": "유가증권주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "유가증권통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.123",
+    "realPort": 19525,
+    "sendSystem": "유가(체결/호가/공개정보)_KRX"
+  },
+  {
+    "_id": "5c357c8eda8e197aa3639f8a",
+    "fileName": "유가증권주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "유가증권통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.111",
+    "realPort": 19511,
+    "sendSystem": "유가(체결/호가/공개정보)_KRX"
+  },
+  {
+    "_id": "5c357c8eda8e197aa3639f91",
+    "fileName": "유가증권주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "유가증권통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.111",
+    "realPort": 19512,
+    "sendSystem": "유가(체결/호가/공개정보)_KRX"
+  },
+  {
+    "_id": "5c357c8eda8e197aa3639f98",
+    "fileName": "유가증권주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "유가증권통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.111",
+    "realPort": 19513,
+    "sendSystem": "유가(체결/호가/공개정보)_KRX"
+  },
+  {
+    "_id": "5c357c8eda8e197aa3639f9f",
+    "fileName": "유가증권주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "유가증권통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.111",
+    "realPort": 19514,
+    "sendSystem": "유가(체결/호가/공개정보)_KRX"
+  },
+  {
+    "_id": "5c357c8eda8e197aa3639fa6",
+    "fileName": "유가증권주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "유가증권통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.111",
+    "realPort": 19515,
+    "sendSystem": "유가(체결/호가/공개정보)_KRX"
+  },
+  {
+    "_id": "5c357c8eda8e197aa3639fac",
+    "fileName": "유가증권주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "유가증권통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.116",
+    "realPort": 19521,
+    "sendSystem": "유가(체결/호가/공개정보)_KRX"
+  },
+  {
+    "_id": "5c357c8eda8e197aa3639fb0",
+    "fileName": "유가증권주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "유가증권통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.116",
+    "realPort": 19522,
+    "sendSystem": "유가(체결/호가/공개정보)_KRX"
+  },
+  {
+    "_id": "5c357c8eda8e197aa3639fb1",
+    "fileName": "유가증권주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "유가증권통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.31",
+    "realPort": 19535,
+    "sendSystem": "유가(외국인)_KOSCOM"
+  },
+  {
+    "_id": "5c357c8eda8e197aa3639fbb",
+    "fileName": "유가증권주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "유가증권통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.32",
+    "realPort": 19539,
+    "sendSystem": "유가(외국인)_KOSCOM"
+  },
+  {
+    "_id": "5c357c8eda8e197aa3639fbd",
+    "fileName": "유가증권주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "유가증권통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.33",
+    "realPort": 19540,
+    "sendSystem": "유가(외국인)_KOSCOM"
+  },
+  {
+    "_id": "5c357c8eda8e197aa3639fda",
+    "fileName": "유가증권주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "유가증권통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.27",
+    "realPort": 19520,
+    "sendSystem": "유가(외국인)_KOSCOM"
+  },
+  {
+    "_id": "5c357c8eda8e197aa3639fdf",
+    "fileName": "유가증권주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "유가증권통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.27",
+    "realPort": 19530,
+    "sendSystem": "유가(외국인)_KOSCOM"
+  },
+  {
+    "_id": "5c357c8eda8e197aa3639fe0",
+    "fileName": "유가증권주식/실시간/UDP(8M)",
+    "trCode": "I3011",
+    "market": "유가증권통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.27",
+    "realPort": 19530,
+    "sendSystem": "유가(외국인)_KOSCOM"
+  },
+  {
+    "_id": "5c357c8eda8e197aa3639fe8",
+    "fileName": "유가증권주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "유가증권통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.28",
+    "realPort": 19532,
+    "sendSystem": "유가(외국인)_KOSCOM"
+  },
+  {
+    "_id": "5c357c8eda8e197aa3639feb",
+    "fileName": "유가증권주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "유가증권통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.29",
+    "realPort": 19533,
+    "sendSystem": "유가(외국인)_KOSCOM"
+  },
+  {
+    "_id": "5c357c8eda8e197aa3639ff7",
+    "fileName": "유가증권주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "유가증권통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.115",
+    "realPort": 19523,
+    "sendSystem": "유가(지수/종목배치)_KRX"
+  },
+  {
+    "_id": "5c357c8eda8e197aa363a003",
+    "fileName": "유가증권주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "유가증권통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.115",
+    "realPort": 19524,
+    "sendSystem": "유가(지수/종목배치)_KRX"
+  },
+  {
+    "_id": "5c357c8eda8e197aa363a004",
+    "fileName": "유가증권주식/실시간/UDP(8M)",
+    "trCode": "I5011",
+    "market": "유가증권통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.115",
+    "realPort": 19524,
+    "sendSystem": "유가(지수/종목배치)_KRX"
+  },
+  {
+    "_id": "5c357c8eda8e197aa363a005",
+    "fileName": "유가증권주식/실시간/UDP(8M)",
+    "trCode": "I6011",
+    "market": "유가증권통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.115",
+    "realPort": 19524,
+    "sendSystem": "유가(지수/종목배치)_KRX"
+  },
+  {
+    "_id": "5c357c8eda8e197aa363a006",
+    "fileName": "유가증권주식/실시간/UDP(8M)",
+    "trCode": "I7011",
+    "market": "유가증권통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.115",
+    "realPort": 19524,
+    "sendSystem": "유가(지수/종목배치)_KRX"
+  },
+  {
+    "_id": "5c357c8eda8e197aa363a007",
+    "fileName": "유가증권주식/실시간/UDP(8M)",
+    "trCode": "I8011",
+    "market": "유가증권통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.115",
+    "realPort": 19524,
+    "sendSystem": "유가(지수/종목배치)_KRX"
+  },
+  {
+    "_id": "5c357c8eda8e197aa363a016",
+    "fileName": "유가증권주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "유가증권통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.115",
+    "realPort": 19528,
+    "sendSystem": "유가(지수/종목배치)_KRX"
+  },
+  {
+    "_id": "5c357c8eda8e197aa363a01c",
+    "fileName": "유가증권주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "유가증권통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.114",
+    "realPort": 19531,
+    "sendSystem": "유가(지수/종목배치)_KRX"
+  },
+  {
+    "_id": "5c357c8eda8e197aa363a01d",
+    "fileName": "유가증권주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "유가증권통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.119",
+    "realPort": 19536,
+    "sendSystem": "유가(지수/종목배치)_KRX"
+  },
+  {
+    "_id": "5c357c8eda8e197aa363a025",
+    "fileName": "유가증권주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "유가증권통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.123",
+    "realPort": 19525,
+    "sendSystem": "유가(지수/종목배치)_KRX"
+  },
+  {
+    "_id": "5c357c8eda8e197aa363a026",
+    "fileName": "유가증권주식/실시간/UDP(8M)",
+    "trCode": "I6017",
+    "market": "유가증권통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.123",
+    "realPort": 19525,
+    "sendSystem": "유가(지수/종목배치)_KRX"
+  },
+  {
+    "_id": "5c357c8eda8e197aa363a029",
+    "fileName": "유가증권주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "유가증권통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.113",
+    "realPort": 19527,
+    "sendSystem": "유가(지수/종목배치)_KRX"
+  },
+  {
+    "_id": "5c357c8eda8e197aa363a02b",
+    "fileName": "유가증권주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "ELW회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.142",
+    "realPort": 19621,
+    "sendSystem": "ELW(체결/호가/공개정보/종가)_KRX"
+  },
+  {
+    "_id": "5c357c8eda8e197aa363a02d",
+    "fileName": "유가증권주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "ELW회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.142",
+    "realPort": 19622,
+    "sendSystem": "ELW(체결/호가/공개정보/종가)_KRX"
+  },
+  {
+    "_id": "5c357c8eda8e197aa363a03e",
+    "fileName": "유가증권주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "ELW회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.146",
+    "realPort": 19631,
+    "sendSystem": "ELW(종목배치/거래원/투자지표)_KRX"
+  },
+  {
+    "_id": "5c357c8eda8e197aa363a041",
+    "fileName": "유가증권주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "ELW회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.145",
+    "realPort": 19624,
+    "sendSystem": "ELW(종목배치/거래원/투자지표)_KRX"
+  },
+  {
+    "_id": "5c357c8eda8e197aa363a042",
+    "fileName": "유가증권주식/실시간/UDP(8M)",
+    "trCode": "I7011",
+    "market": "ELW회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.145",
+    "realPort": 19624,
+    "sendSystem": "ELW(종목배치/거래원/투자지표)_KRX"
+  },
+  {
+    "_id": "5c357c8eda8e197aa363a046",
+    "fileName": "유가증권주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "ELW회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.143",
+    "realPort": 19627,
+    "sendSystem": "ELW(종목배치/거래원/투자지표)_KRX"
+  },
+  {
+    "_id": "5c357c8eda8e197aa363a049",
+    "fileName": "유가증권주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "ELW회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.144",
+    "realPort": 19629,
+    "sendSystem": "ELW(종목배치/거래원/투자지표)_KRX"
+  },
+  {
+    "_id": "5c357c8eda8e197aa363a04c",
+    "fileName": "유가증권주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "ELW회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.144",
+    "realPort": 19626,
+    "sendSystem": "ELW(종목배치/거래원/투자지표)_KRX"
+  },
+  {
+    "_id": "5c357c8eda8e197aa363a04e",
+    "fileName": "유가증권주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "ELW회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.35",
+    "realPort": 19628,
+    "sendSystem": "ELW(민감도/내재변동성)_KOSCOM"
+  },
+  {
+    "_id": "5c357c8eda8e197aa363a04f",
+    "fileName": "유가증권주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "ELW회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.34",
+    "realPort": 19630,
+    "sendSystem": "ELW(민감도/내재변동성)_KOSCOM"
+  },
+  {
+    "_id": "5c357c8fda8e197aa363a124",
+    "fileName": "유로스톡스50선물/실시간/UDP(8M)",
+    "trCode": "I2144",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.248",
+    "realPort": 15382,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8fda8e197aa363a12a",
+    "fileName": "유로스톡스50선물/실시간/UDP(8M)",
+    "trCode": "I2144",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.248",
+    "realPort": 15383,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8fda8e197aa363a12d",
+    "fileName": "유로스톡스50선물/실시간/UDP(8M)",
+    "trCode": "I2144",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.248",
+    "realPort": 15384,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8fda8e197aa363a12f",
+    "fileName": "유로스톡스50선물/실시간/UDP(8M)",
+    "trCode": "I2144",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.250",
+    "realPort": 15385,
+    "sendSystem": "선물(종목정보/조정내역)_KRX"
+  },
+  {
+    "_id": "5c357c8fda8e197aa363a131",
+    "fileName": "유로스톡스50선물/실시간/UDP(8M)",
+    "trCode": "I2144",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.249",
+    "realPort": 15381,
+    "sendSystem": "선물(종목정보/조정내역)_KRX"
+  },
+  {
+    "_id": "5c357c8fda8e197aa363a2ad",
+    "fileName": "채권/실시간/UDP(512K)",
+    "trCode": "I2000",
+    "market": "채권회선 512K",
+    "highSpeedMulticastGroupIP": "233.37.54.202",
+    "realPort": 9411,
+    "sendSystem": "채권(체결/호가/발행/지수)_KRX"
+  },
+  {
+    "_id": "5c357c8fda8e197aa363a2bd",
+    "fileName": "채권/실시간/UDP(512K)",
+    "trCode": "I2000",
+    "market": "채권회선 512K",
+    "highSpeedMulticastGroupIP": "233.37.54.203",
+    "realPort": 9404,
+    "sendSystem": "채권(체결/호가/발행/지수)_KRX"
+  },
+  {
+    "_id": "5c357c8fda8e197aa363a2c2",
+    "fileName": "채권/실시간/UDP(512K)",
+    "trCode": "I2000",
+    "market": "채권회선 512K",
+    "highSpeedMulticastGroupIP": "233.37.54.204",
+    "realPort": 9408,
+    "sendSystem": "채권(통계)_KRX"
+  },
+  {
+    "_id": "5c357c8fda8e197aa363a2cb",
+    "fileName": "채권/실시간/UDP(512K)",
+    "trCode": "I2000",
+    "market": "채권회선 512K",
+    "highSpeedMulticastGroupIP": "233.37.54.202",
+    "realPort": 9411,
+    "sendSystem": "채권(통계)_KRX"
+  },
+  {
+    "_id": "5c357c8fda8e197aa363a2cc",
+    "fileName": "채권/실시간/UDP(512K)",
+    "trCode": "I6017",
+    "market": "채권회선 512K",
+    "highSpeedMulticastGroupIP": "233.37.54.202",
+    "realPort": 9411,
+    "sendSystem": "채권(통계)_KRX"
+  },
+  {
+    "_id": "5c357c8fda8e197aa363a2ce",
+    "fileName": "채권/실시간/UDP(512K)",
+    "trCode": "I2000",
+    "market": "채권회선 512K",
+    "highSpeedMulticastGroupIP": "233.37.54.88",
+    "realPort": 9403,
+    "sendSystem": "채권(장외채권수익률/호가/투자자/IDB/MKF지수)_KOSCOM"
+  },
+  {
+    "_id": "5c357c8fda8e197aa363a2d0",
+    "fileName": "채권/실시간/UDP(512K)",
+    "trCode": "I2000",
+    "market": "채권회선 512K",
+    "highSpeedMulticastGroupIP": "233.37.54.87",
+    "realPort": 9412,
+    "sendSystem": "채권(장외채권수익률/호가/투자자/IDB/MKF지수)_KOSCOM"
+  },
+  {
+    "_id": "5c357c8fda8e197aa363a2d4",
+    "fileName": "채권/실시간/UDP(512K)",
+    "trCode": "I2000",
+    "market": "채권회선 512K",
+    "highSpeedMulticastGroupIP": "233.37.54.93",
+    "realPort": 9410,
+    "sendSystem": "채권(장외채권수익률/호가/투자자/IDB/MKF지수)_KOSCOM"
+  },
+  {
+    "_id": "5c357c8fda8e197aa363a2d6",
+    "fileName": "채권/실시간/UDP(512K)",
+    "trCode": "I2000",
+    "market": "채권회선 512K",
+    "highSpeedMulticastGroupIP": "233.37.54.91",
+    "realPort": 9407,
+    "sendSystem": "채권(장외채권수익률/호가/투자자/IDB/MKF지수)_KOSCOM"
+  },
+  {
+    "_id": "5c357c8fda8e197aa363a2de",
+    "fileName": "채권/실시간/UDP(512K)",
+    "trCode": "I2000",
+    "market": "채권회선 512K",
+    "highSpeedMulticastGroupIP": "233.37.54.90",
+    "realPort": 9406,
+    "sendSystem": "채권(장외채권수익률/호가/투자자/IDB/MKF지수)_KOSCOM"
+  },
+  {
+    "_id": "5c357c8fda8e197aa363a2e1",
+    "fileName": "채권/실시간/UDP(512K)",
+    "trCode": "I2000",
+    "market": "채권회선 512K",
+    "highSpeedMulticastGroupIP": "233.37.54.89",
+    "realPort": 9405,
+    "sendSystem": "채권(장외채권수익률/호가/투자자/IDB/MKF지수)_KOSCOM"
+  },
+  {
+    "_id": "5c357c8fda8e197aa363a447",
+    "fileName": "코넥스주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.160",
+    "realPort": 19735,
+    "sendSystem": "코넥스(체결/호가/장운영/종가)_KRX"
+  },
+  {
+    "_id": "5c357c8fda8e197aa363a449",
+    "fileName": "코넥스주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.160",
+    "realPort": 19736,
+    "sendSystem": "코넥스(체결/호가/장운영/종가)_KRX"
+  },
+  {
+    "_id": "5c357c8fda8e197aa363a44f",
+    "fileName": "코넥스주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.156",
+    "realPort": 19732,
+    "sendSystem": "코넥스(체결/호가/장운영/종가)_KRX"
+  },
+  {
+    "_id": "5c357c8fda8e197aa363a452",
+    "fileName": "코넥스주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.157",
+    "realPort": 19733,
+    "sendSystem": "코넥스(체결/호가/장운영/종가)_KRX"
+  },
+  {
+    "_id": "5c357c8fda8e197aa363a454",
+    "fileName": "코넥스주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.160",
+    "realPort": 19734,
+    "sendSystem": "코넥스(체결/호가/장운영/종가)_KRX"
+  },
+  {
+    "_id": "5c357c8fda8e197aa363a458",
+    "fileName": "코넥스주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.160",
+    "realPort": 19738,
+    "sendSystem": "코넥스(지수/종목배치/거래원/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8fda8e197aa363a459",
+    "fileName": "코넥스주식/실시간/UDP(8M)",
+    "trCode": "I7018",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.160",
+    "realPort": 19738,
+    "sendSystem": "코넥스(지수/종목배치/거래원/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8fda8e197aa363a45a",
+    "fileName": "코넥스주식/실시간/UDP(8M)",
+    "trCode": "I8018",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.160",
+    "realPort": 19738,
+    "sendSystem": "코넥스(지수/종목배치/거래원/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8fda8e197aa363a45e",
+    "fileName": "코넥스주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.160",
+    "realPort": 19739,
+    "sendSystem": "코넥스(지수/종목배치/거래원/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8fda8e197aa363a460",
+    "fileName": "코넥스주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.158",
+    "realPort": 19740,
+    "sendSystem": "코넥스(지수/종목배치/거래원/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8fda8e197aa363a462",
+    "fileName": "코넥스주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.159",
+    "realPort": 19741,
+    "sendSystem": "코넥스(지수/종목배치/거래원/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8fda8e197aa363a513",
+    "fileName": "코스닥150선물/실시간/UDP(8M)",
+    "trCode": "I2024",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.172",
+    "realPort": 15582,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8fda8e197aa363a51a",
+    "fileName": "코스닥150선물/실시간/UDP(8M)",
+    "trCode": "I2014",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.192",
+    "realPort": 15584,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8fda8e197aa363a51c",
+    "fileName": "코스닥150선물/실시간/UDP(8M)",
+    "trCode": "I2024",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.192",
+    "realPort": 15587,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8fda8e197aa363a51e",
+    "fileName": "코스닥150선물/실시간/UDP(8M)",
+    "trCode": "I2024",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.192",
+    "realPort": 15588,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8fda8e197aa363a520",
+    "fileName": "코스닥150선물/실시간/UDP(8M)",
+    "trCode": "I2024",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.192",
+    "realPort": 15583,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8fda8e197aa363a522",
+    "fileName": "코스닥150선물/실시간/UDP(8M)",
+    "trCode": "I2024",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.192",
+    "realPort": 15581,
+    "sendSystem": "선물(종목정보/조정내역)_KRX"
+  },
+  {
+    "_id": "5c357c8fda8e197aa363a583",
+    "fileName": "코스닥150옵션/실시간/UDP(8M)",
+    "trCode": "I2174",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.185",
+    "realPort": 15392,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8fda8e197aa363a58a",
+    "fileName": "코스닥150옵션/실시간/UDP(8M)",
+    "trCode": "I2174",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.185",
+    "realPort": 15393,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8fda8e197aa363a58d",
+    "fileName": "코스닥150옵션/실시간/UDP(8M)",
+    "trCode": "I2174",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.185",
+    "realPort": 15394,
+    "sendSystem": "선물(체결/호가/미결제/정산가/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c8fda8e197aa363a58f",
+    "fileName": "코스닥150옵션/실시간/UDP(8M)",
+    "trCode": "I2174",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.185",
+    "realPort": 15391,
+    "sendSystem": "선물(종목정보/민감도)"
+  },
+  {
+    "_id": "5c357c8fda8e197aa363a590",
+    "fileName": "코스닥150옵션/실시간/UDP(8M)",
+    "trCode": "I2174",
+    "market": "선물/주식선물옵션회선 12M",
+    "highSpeedMulticastGroupIP": "233.37.54.185",
+    "realPort": 15395,
+    "sendSystem": "선물(종목정보/민감도)"
+  },
+  {
+    "_id": "5c357c90da8e197aa363abd9",
+    "fileName": "코스닥주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.160",
+    "realPort": 19738,
+    "sendSystem": "코넥스(지수/종목배치/거래원/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c90da8e197aa363abda",
+    "fileName": "코스닥주식/실시간/UDP(8M)",
+    "trCode": "I7018",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.160",
+    "realPort": 19738,
+    "sendSystem": "코넥스(지수/종목배치/거래원/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c90da8e197aa363abdb",
+    "fileName": "코스닥주식/실시간/UDP(8M)",
+    "trCode": "I8018",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.160",
+    "realPort": 19738,
+    "sendSystem": "코넥스(지수/종목배치/거래원/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c90da8e197aa363abdf",
+    "fileName": "코스닥주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.160",
+    "realPort": 19739,
+    "sendSystem": "코넥스(지수/종목배치/거래원/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c90da8e197aa363abe1",
+    "fileName": "코스닥주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.158",
+    "realPort": 19740,
+    "sendSystem": "코넥스(지수/종목배치/거래원/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c90da8e197aa363abe6",
+    "fileName": "코스닥주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.151",
+    "realPort": 19717,
+    "sendSystem": "코스닥(체결/호가/장운영/종가)_KRX"
+  },
+  {
+    "_id": "5c357c90da8e197aa363abed",
+    "fileName": "코스닥주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.151",
+    "realPort": 19718,
+    "sendSystem": "코스닥(체결/호가/장운영/종가)_KRX"
+  },
+  {
+    "_id": "5c357c90da8e197aa363abf4",
+    "fileName": "코스닥주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.151",
+    "realPort": 19719,
+    "sendSystem": "코스닥(체결/호가/장운영/종가)_KRX"
+  },
+  {
+    "_id": "5c357c90da8e197aa363abfb",
+    "fileName": "코스닥주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.151",
+    "realPort": 19720,
+    "sendSystem": "코스닥(체결/호가/장운영/종가)_KRX"
+  },
+  {
+    "_id": "5c357c90da8e197aa363ac02",
+    "fileName": "코스닥주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.151",
+    "realPort": 19711,
+    "sendSystem": "코스닥(체결/호가/장운영/종가)_KRX"
+  },
+  {
+    "_id": "5c357c90da8e197aa363ac09",
+    "fileName": "코스닥주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.151",
+    "realPort": 19712,
+    "sendSystem": "코스닥(체결/호가/장운영/종가)_KRX"
+  },
+  {
+    "_id": "5c357c90da8e197aa363ac10",
+    "fileName": "코스닥주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.151",
+    "realPort": 19713,
+    "sendSystem": "코스닥(체결/호가/장운영/종가)_KRX"
+  },
+  {
+    "_id": "5c357c90da8e197aa363ac17",
+    "fileName": "코스닥주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.151",
+    "realPort": 19714,
+    "sendSystem": "코스닥(체결/호가/장운영/종가)_KRX"
+  },
+  {
+    "_id": "5c357c90da8e197aa363ac1e",
+    "fileName": "코스닥주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.151",
+    "realPort": 19715,
+    "sendSystem": "코스닥(체결/호가/장운영/종가)_KRX"
+  },
+  {
+    "_id": "5c357c90da8e197aa363ac25",
+    "fileName": "코스닥주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.151",
+    "realPort": 19716,
+    "sendSystem": "코스닥(체결/호가/장운영/종가)_KRX"
+  },
+  {
+    "_id": "5c357c90da8e197aa363ac2a",
+    "fileName": "코스닥주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.216",
+    "realPort": 19721,
+    "sendSystem": "코스닥(체결/호가/장운영/종가)_KRX"
+  },
+  {
+    "_id": "5c357c90da8e197aa363ac2d",
+    "fileName": "코스닥주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.216",
+    "realPort": 19722,
+    "sendSystem": "코스닥(체결/호가/장운영/종가)_KRX"
+  },
+  {
+    "_id": "5c357c90da8e197aa363ac2f",
+    "fileName": "코스닥주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.155",
+    "realPort": 19724,
+    "sendSystem": "코스닥(체결/호가/장운영/종가)_KRX"
+  },
+  {
+    "_id": "5c357c90da8e197aa363ac36",
+    "fileName": "코스닥주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.155",
+    "realPort": 19726,
+    "sendSystem": "코스닥(체결/호가/장운영/종가)_KRX"
+  },
+  {
+    "_id": "5c357c90da8e197aa363ac38",
+    "fileName": "코스닥주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.155",
+    "realPort": 19728,
+    "sendSystem": "코스닥(체결/호가/장운영/종가)_KRX"
+  },
+  {
+    "_id": "5c357c90da8e197aa363ac3d",
+    "fileName": "코스닥주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.36",
+    "realPort": 19786,
+    "sendSystem": "코스닥(K-OTC)_KOSCOM"
+  },
+  {
+    "_id": "5c357c90da8e197aa363ac41",
+    "fileName": "코스닥주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.36",
+    "realPort": 19787,
+    "sendSystem": "코스닥(K-OTC)_KOSCOM"
+  },
+  {
+    "_id": "5c357c90da8e197aa363ac46",
+    "fileName": "코스닥주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.155",
+    "realPort": 19723,
+    "sendSystem": "코스닥(지수/종목배치/거래원/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c90da8e197aa363ac49",
+    "fileName": "코스닥주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.155",
+    "realPort": 19724,
+    "sendSystem": "코스닥(지수/종목배치/거래원/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c90da8e197aa363ac4a",
+    "fileName": "코스닥주식/실시간/UDP(8M)",
+    "trCode": "I5012",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.155",
+    "realPort": 19724,
+    "sendSystem": "코스닥(지수/종목배치/거래원/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c90da8e197aa363ac4b",
+    "fileName": "코스닥주식/실시간/UDP(8M)",
+    "trCode": "I6012",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.155",
+    "realPort": 19724,
+    "sendSystem": "코스닥(지수/종목배치/거래원/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c90da8e197aa363ac4c",
+    "fileName": "코스닥주식/실시간/UDP(8M)",
+    "trCode": "I7012",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.155",
+    "realPort": 19724,
+    "sendSystem": "코스닥(지수/종목배치/거래원/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c90da8e197aa363ac4d",
+    "fileName": "코스닥주식/실시간/UDP(8M)",
+    "trCode": "I8012",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.155",
+    "realPort": 19724,
+    "sendSystem": "코스닥(지수/종목배치/거래원/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c90da8e197aa363ac54",
+    "fileName": "코스닥주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.155",
+    "realPort": 19728,
+    "sendSystem": "코스닥(지수/종목배치/거래원/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c90da8e197aa363ac5a",
+    "fileName": "코스닥주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.154",
+    "realPort": 19731,
+    "sendSystem": "코스닥(지수/종목배치/거래원/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c90da8e197aa363ac5c",
+    "fileName": "코스닥주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.153",
+    "realPort": 19727,
+    "sendSystem": "코스닥(지수/종목배치/거래원/투자자)_KRX"
+  },
+  {
+    "_id": "5c357c90da8e197aa363ac5e",
+    "fileName": "코스닥주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.160",
+    "realPort": 19736,
+    "sendSystem": "코넥스(체결/호가/장운영/종가)_KRX"
+  },
+  {
+    "_id": "5c357c90da8e197aa363ac64",
+    "fileName": "코스닥주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.156",
+    "realPort": 19732,
+    "sendSystem": "코넥스(체결/호가/장운영/종가)_KRX"
+  },
+  {
+    "_id": "5c357c90da8e197aa363ac67",
+    "fileName": "코스닥주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.157",
+    "realPort": 19733,
+    "sendSystem": "코넥스(체결/호가/장운영/종가)_KRX"
+  },
+  {
+    "_id": "5c357c90da8e197aa363ac69",
+    "fileName": "코스닥주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.160",
+    "realPort": 19734,
+    "sendSystem": "코넥스(체결/호가/장운영/종가)_KRX"
+  },
+  {
+    "_id": "5c357c90da8e197aa363ac6f",
+    "fileName": "코스닥주식/실시간/UDP(8M)",
+    "trCode": "I2000",
+    "market": "코스닥통합회선 8M",
+    "highSpeedMulticastGroupIP": "233.37.54.160",
+    "realPort": 19735,
+    "sendSystem": "코넥스(체결/호가/장운영/종가)_KRX"
+  },
+
+
+    {
+      "_id": "5e5b49cd26c54a9b1bb23388",
+      "fileName": "KOSPI200위클리옵션/실시간/UDP(8M)",
+      "trCode": "I2184",
+      "market": "옵션CALL회선 8M",
+      "highSpeedMulticastGroupIP": "233.37.54.246",
+      "realPort": 15714,
+      "sendSystem": "옵션CALL(체결/호가)_KRX"
+    },
+    {
+      "_id": "5e5b49cd26c54a9b1bb23393",
+      "fileName": "KOSPI200위클리옵션/실시간/UDP(8M)",
+      "trCode": "I2184",
+      "market": "옵션PUT회선 8M",
+      "highSpeedMulticastGroupIP": "233.37.54.247",
+      "realPort": 15717,
+      "sendSystem": "옵션 PUT_KRX"
+    },
+    {
+      "_id": "5e5b49cd26c54a9b1bb2338c",
+      "fileName": "KOSPI200위클리옵션/실시간/UDP(8M)",
+      "trCode": "I2184",
+      "market": "옵션CALL회선 8M",
+      "highSpeedMulticastGroupIP": "233.37.54.246",
+      "realPort": 15713,
+      "sendSystem": "옵션CALL(체결/호가)_KRX"
+    },
+    {
+      "_id": "5e5b49cd26c54a9b1bb23381",
+      "fileName": "KOSPI200위클리옵션/실시간/UDP(8M)",
+      "trCode": "I2184",
+      "market": "옵션CALL회선 8M",
+      "highSpeedMulticastGroupIP": "233.37.54.246",
+      "realPort": 15715,
+      "sendSystem": "옵션CALL(체결/호가)_KRX"
+    },
+    {
+      "_id": "5e5b49cd26c54a9b1bb2337a",
+      "fileName": "KOSPI200위클리옵션/실시간/UDP(8M)",
+      "trCode": "I2184",
+      "market": "옵션CALL회선 8M",
+      "highSpeedMulticastGroupIP": "233.37.54.246",
+      "realPort": 15711,
+      "sendSystem": "옵션(종목정보)_KRX"
+    },
+    {
+      "_id": "5e5b49cd26c54a9b1bb23376",
+      "fileName": "KOSPI200위클리옵션/실시간/UDP(8M)",
+      "trCode": "I2184",
+      "market": "옵션CALL회선 8M",
+      "highSpeedMulticastGroupIP": "233.37.54.246",
+      "realPort": 15710,
+      "sendSystem": "옵션(종목정보)_KRX"
+    }
+  ]
+}

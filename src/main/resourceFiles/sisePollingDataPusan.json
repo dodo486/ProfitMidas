@@ -1,0 +1,76 @@
+{
+  "dataArray":[
+    {
+      "_id": "5c357c89da8e197aa3637b95",
+      "fileName": "[부산]미니코스피200지수옵션/실시간/UDP(45M)",
+      "trCode": "I2134",
+      "market": "[부산]옵션PUT-45M",
+      "highSpeedMulticastGroupIP": "233.37.54.109",
+      "realPort": 30121
+    },
+    {
+      "_id": "5c357c88da8e197aa3637b18",
+      "fileName": "[부산]KOSPI200지수선물/실시간/UDP(45M)",
+      "trCode": "I2014",
+      "market": "[부산]통합선물_45M",
+      "highSpeedMulticastGroupIP": "233.37.54.104",
+      "realPort": 30071
+    },
+    {
+      "_id": "5c357c88da8e197aa3637b3d",
+      "fileName": "[부산]KOSPI200지수옵션/실시간/UDP(45M)",
+      "trCode": "I2034",
+      "market": "[부산]옵션CALL-45M",
+      "highSpeedMulticastGroupIP": "233.37.54.105",
+      "realPort": 30081
+    },
+    {
+      "_id": "5c357c88da8e197aa3637b47",
+      "fileName": "[부산]KOSPI200지수옵션/실시간/UDP(45M)",
+      "trCode": "I2034",
+      "market": "[부산]옵션PUT-45M",
+      "highSpeedMulticastGroupIP": "233.37.54.106",
+      "realPort": 30091
+    },
+    {
+      "_id": "5c357c88da8e197aa3637b69",
+      "fileName": "[부산]미니코스피200지수선물/실시간/UDP(45M)",
+      "trCode": "I2124",
+      "market": "[부산]통합선물_45M",
+      "highSpeedMulticastGroupIP": "233.37.54.107",
+      "realPort": 30101
+    },
+    {
+      "_id": "5c357c89da8e197aa3637b8b",
+      "fileName": "[부산]미니코스피200지수옵션/실시간/UDP(45M)",
+      "trCode": "I2134",
+      "market": "[부산]옵션CALL-45M",
+      "highSpeedMulticastGroupIP": "233.37.54.108",
+      "realPort": 30111
+    },
+    {
+      "_id": "5c357c89da8e197aa3637bb8",
+      "fileName": "[부산]상품선물/실시간/UDP(45M)",
+      "trCode": "I2024",
+      "market": "[부산]통합선물_45M",
+      "highSpeedMulticastGroupIP": "233.37.54.110",
+      "realPort": 30131
+    },
+    {
+      "_id": "5c357c89da8e197aa3637bd8",
+      "fileName": "[부산]위클리옵션/실시간/UDP(45M)",
+      "trCode": "I2184",
+      "market": "[부산]옵션CALL-45M",
+      "highSpeedMulticastGroupIP": "233.37.54.108",
+      "realPort": 30141
+    },
+    {
+      "_id": "5c357c89da8e197aa3637be2",
+      "fileName": "[부산]위클리옵션/실시간/UDP(45M)",
+      "trCode": "I2184",
+      "market": "[부산]옵션PUT-45M",
+      "highSpeedMulticastGroupIP": "233.37.54.109",
+      "realPort": 30151
+    }
+  ]
+}
